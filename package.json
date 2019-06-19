@@ -1,9 +1,9 @@
 {
-	"name": "react-component-generator",
-	"displayName": "React Component Generator",
+	"name": "createcomponentinteractive",
+	"displayName": "React Scaffolder",
 	"description": "",
 	"icon": "icon.png",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"publisher": "alxclark",
 	"author": {
 		"name": "Alexandre Clark"
