@@ -1,0 +1,4 @@
+out/**
+**.vsix
+vsc-extension-quickstart.md
+node_modules/**
