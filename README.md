@@ -4,13 +4,10 @@ VSCode plugin to quickly scaffold React components
 
 ## Features
 
-* Generate React components using a wizard
-* Create a good base for a component
-* Select features to include
+* Generate React components interactively
+* Create the whole structure of your component in seconds
+* Select a variety of features to include
 
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
 
 ## Release Notes
 
