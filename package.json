@@ -3,7 +3,7 @@
 	"displayName": "React Scaffolder",
 	"description": "Create React components blazingly fast",
 	"icon": "icon.png",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "alxclark",
 	"author": {
 		"name": "Alexandre Clark"
